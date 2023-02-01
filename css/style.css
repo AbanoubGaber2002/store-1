@@ -59,7 +59,7 @@
     border-radius: 10px;
     width: 100%;
     height: 100vh;
-    background-image: url(../image/img/hero-bg.jpg);
+    background-image: url(/store-1/image/img/hero-bg.jpg);
     background-size: cover;
     margin-top: 5px;
 
@@ -785,7 +785,7 @@
 
     margin-top: 500px;
     position: relative;
-    background-image: url(../image/img/cta-bg.jpg);
+    background-image: url(/store-1/image/img/cta-bg.jpg);
     height: 350px;
     background-size: cover;
     background-attachment: fixed;
